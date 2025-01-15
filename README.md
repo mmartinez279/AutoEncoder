@@ -1,6 +1,6 @@
 # Conditional Variational AutoEncoder
 
-This is a repo for my autoencoder project. To view the results of the model's image generation, select the autoEncoder.ipynb file, and scroll to
+This is a repository for my autoencoder project. To view the results of the model's image generation, select the autoEncoder.ipynb file, and scroll to
 the very bottom, where you can find the generative imgage capabilites under a section called: 
 _Generate new handwritten digits given a noise image, and a desired number_. The structure and source code for the model, in addition to
 the simpler VAE model are also all in the autoEncoder.ipynb file. 
