@@ -2,9 +2,13 @@
 
 This is model can generate generate it's own handwritten digits given a number to generate, and a noise image.  
 
-To view the results of the model's image generation, in section above, click the **autoEncoder.ipynb** file, and scroll to
-the very bottom, where you can find the generative imgage capabilites under a section called: 
-_Generate new handwritten digits given a noise image, and a desired number_. The structure and source code for the model, in addition to
+To view the results of the model's image generation:
+
+1) in section above: click the **autoEncoder.ipynb** file to open it.
+2) scroll to the very bottom, where you can find the generative imgage capabilites under a section called: 
+_Generate new handwritten digits given a noise image, and a desired number_.
+
+The structure and source code for the model, in addition to
 the simpler VAE model are also all in the autoEncoder.ipynb file. 
 
 ### TO RUN THE CODE, DO THIS:
