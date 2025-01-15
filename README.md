@@ -1,9 +1,11 @@
-# AutoEncoder
-This is a repo for my autoencoder project. The results of the model's image generation are 
-at the very bottom, and you can find the generative imgage capabilites under a section called: 
-_Generate new handwritten digits given a noise image, and a desired number_. 
+# Conditional Variational AutoEncoder
 
-## TO RUN THE CODE, DO THIS:
+This is a repo for my autoencoder project. To view the results of the model's image generation, select the autoEncoder.ipynb file, and scroll to
+the very bottom, where you can find the generative imgage capabilites under a section called: 
+_Generate new handwritten digits given a noise image, and a desired number_. The structure and source code for the model, in addition to
+the simpler VAE model are also all in the autoEncoder.ipynb file. 
+
+### TO RUN THE CODE, DO THIS:
 
 In a powershell terminal (in this directory) (also in vscode), do these commands:
 
