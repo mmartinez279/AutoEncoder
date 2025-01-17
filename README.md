@@ -1,6 +1,6 @@
 # Conditional Variational AutoEncoder
 
-This is model can generate generate it's own handwritten digits given a number to generate, and a noise image.  
+This is a model that can generate it's own handwritten digits, given a number to generate, and a noise image.  
 
 To view the results of the model's image generation:
 
